@@ -4,9 +4,8 @@
 
 ## 🚀 Sobre mim
 
-- 🔭 Atualmente estou trabalhando em projetos de desenvolvimento web e automação.
+- 🔭 Atualmente estou trabalhando em projetos automação de sistemas.
 - 🌱 Estou sempre aprendendo algo novo, atualmente focado em **Python** e **JavaScript**.
-- 💬 Pergunte-me sobre **desenvolvimento web**, **Python** e **automação**.
 - 📫 Como entrar em contato comigo: [tomasdevx@gmail.com](tomasdevx@gmail.com)
 - ⚡ Curiosidade: Adoro desafios e resolver problemas complexos!
 
